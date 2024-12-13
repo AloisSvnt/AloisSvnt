@@ -28,7 +28,7 @@ As a young, dynamic full-stack web developer in constant evolution, I transform 
 
 ---
 
-### 🛠️ Technologies et Outils
+### 🛠️ Technologies and Tools
 ![GitHub](https://img.shields.io/badge/GitHub-151B23?logo=github&logoColor=white&style=for-the-badge)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
 
